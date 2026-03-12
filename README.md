@@ -6,7 +6,7 @@
 - 🔭 **I’m currently working on:** project World
 - 🌱 **I’m currently learning:** web development
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** @ayajay2006@gmail.com
+
 - 😄 **Pronouns:** Dev
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
